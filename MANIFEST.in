@@ -1,0 +1,2 @@
+include README.md
+recursive-include cbpi4_fermenter_autorestart *
