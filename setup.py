@@ -7,11 +7,11 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='cbpi4-fermenter-autorestart',
-    version='1.0.13',
+    version='1.1.0',
     description='CraftBeerPi4 Fermenter Hysteresis with Auto Resume State After Reboot',
-    author='Pierre',
+    author='Pierre Grasswill',
     author_email='',
-    url='',
+    url='https://github.com/daGrumpf-bxp/cbpi4-FermenterAutoRestart',
     license='GPLv3',
     include_package_data=True,
     packages=['cbpi4_fermenter_autorestart'],
